@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developer Internship at WGS<br>🌱 I’m currently learning Go, Echo Framework, and Python.k<br>⚡ I am the owner of Arnorinneproject
+🔭 I’m currently working on Developer Internship at WGS<br>🌱 I’m currently learning Go, Echo Framework, and Python<br>⚡ I am the owner of Arnorinneproject
 
 
 ## 🌐 Socials:
