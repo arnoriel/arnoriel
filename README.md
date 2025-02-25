@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developer Internship at PT WGS and PT Smooets as a Frontend Developer Internship.<br>🌱 I’m currently learning Programming Languages.<br>⚡ I am the owner of Arnorinneproject.
+🔭 I’m currently working on Developer Internship at PT Smooets as a Developer Internship.<br>🌱 I’m currently learning Programming Languages.<br>⚡ I am the owner of Arnorinneproject.
 
 
 ## 🌐 Socials:
